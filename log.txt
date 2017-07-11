@@ -1,158 +1,78 @@
+
+=========== Spotify summer wine ===========
+Artist name : Nancy Sinatra
+Song name : Summer Wine
+Album name : Nancy & Lee
+Preview URL : https://p.scdn.co/mp3-preview/96b2f9de3b6281970ee7ded040affcb555226512?cid=1f766e3c4cd54043bf12f68ea40a33c2
+=========================================================================================
+Movie title : Spy Game
+Release Year: 2001
+IMDB Rating : 7.1
+Rotten Tomato Rating : 66%
+Country : Germany, USA, Japan, France
+Language : English, German, Arabic, French, Cantonese
+Plot : Retiring CIA agent Nathan Muir recalls his training of Tom Bishop while working against agency politics to free him from his Chinese captors.
+Actors : Robert Redford, Brad Pitt, Catherine McCormack, Stephen Dillane
 ===============================
-Artist name : Backstreet Boys
-Song name : I Want It That Way
-Album name : The Hits--Chapter One
-Preview URL : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1f766e3c4cd54043bf12f68ea40a33c2
-==============================================================
+============== Last 20 tweets =============
+===========================================
 Tweet #1 : this is 21st tweet
 Created at : Tue Jul 11 09:45:47 +0000 2017
-==============================================================
+===========================================
 Tweet #2 : this is 20th tweet
 Created at : Tue Jul 11 09:45:31 +0000 2017
-==============================================================
+===========================================
 Tweet #3 : this is 19th tweet
 Created at : Tue Jul 11 09:45:22 +0000 2017
-==============================================================
+===========================================
 Tweet #4 : this is 18th tweet
 Created at : Tue Jul 11 09:45:14 +0000 2017
-==============================================================
+===========================================
 Tweet #5 : this is 17th tweet
 Created at : Tue Jul 11 09:45:07 +0000 2017
-==============================================================
+===========================================
 Tweet #6 : this is 16th tweet
 Created at : Tue Jul 11 09:45:01 +0000 2017
-==============================================================
+===========================================
 Tweet #7 : this is 15th tweet
 Created at : Tue Jul 11 09:44:53 +0000 2017
-==============================================================
+===========================================
 Tweet #8 : this is 14th tweet
 Created at : Tue Jul 11 09:44:48 +0000 2017
-==============================================================
+===========================================
 Tweet #9 : this is 13th tweet
 Created at : Tue Jul 11 09:44:41 +0000 2017
-==============================================================
+===========================================
 Tweet #10 : this is 12th tweet
 Created at : Tue Jul 11 09:44:32 +0000 2017
-==============================================================
+===========================================
 Tweet #11 : this is 11th tweet
 Created at : Tue Jul 11 09:44:22 +0000 2017
-==============================================================
+===========================================
 Tweet #12 : this is 10th tweet
 Created at : Tue Jul 11 09:43:27 +0000 2017
-==============================================================
+===========================================
 Tweet #13 : this is 9th tweet
 Created at : Tue Jul 11 09:43:20 +0000 2017
-==============================================================
+===========================================
 Tweet #14 : this is 8th tweet
 Created at : Tue Jul 11 09:43:11 +0000 2017
-==============================================================
+===========================================
 Tweet #15 : this is 7th tweet
 Created at : Tue Jul 11 09:43:04 +0000 2017
-==============================================================
+===========================================
 Tweet #16 : this is 6th tweet
 Created at : Tue Jul 11 09:42:56 +0000 2017
-==============================================================
+===========================================
 Tweet #17 : this is 5th tweet
 Created at : Tue Jul 11 09:42:47 +0000 2017
-==============================================================
+===========================================
 Tweet #18 : this is 4th tweet
 Created at : Tue Jul 11 09:42:34 +0000 2017
-==============================================================
+===========================================
 Tweet #19 : this is 3rd tweet
 Created at : Tue Jul 11 09:42:23 +0000 2017
-==============================================================
+===========================================
 Tweet #20 : this is my second tweet.
 Created at : Tue Jul 11 09:39:17 +0000 2017
-==============================================================
-Movie title : El Cid
-Release Year: 1961
-IMDB Rating : 7.3
-Rotten Tomato Rating : 92%
-Country : Italy, USA
-Language : English, Latin
-Plot : The fabled Spanish hero Rodrigo Diaz (a.k.a. El Cid) overcomes a family vendetta and court intrigue to defend Christian Spain against the Moors.
-Actors : Charlton Heston, Sophia Loren, Raf Vallone, Geneviève Page
-==============================================================
-Movie title : El Cid
-Release Year: 1961
-IMDB Rating : 7.3
-Rotten Tomato Rating : 92%
-Country : Italy, USA
-Language : English, Latin
-Plot : The fabled Spanish hero Rodrigo Diaz (a.k.a. El Cid) overcomes a family vendetta and court intrigue to defend Christian Spain against the Moors.
-Actors : Charlton Heston, Sophia Loren, Raf Vallone, Geneviève Page
-==============================================================
-Tweet #1 : this is 21st tweet
-Created at : Tue Jul 11 09:45:47 +0000 2017
-==============================================================
-Tweet #2 : this is 20th tweet
-Created at : Tue Jul 11 09:45:31 +0000 2017
-==============================================================
-Tweet #3 : this is 19th tweet
-Created at : Tue Jul 11 09:45:22 +0000 2017
-==============================================================
-Tweet #4 : this is 18th tweet
-Created at : Tue Jul 11 09:45:14 +0000 2017
-==============================================================
-Tweet #5 : this is 17th tweet
-Created at : Tue Jul 11 09:45:07 +0000 2017
-==============================================================
-Tweet #6 : this is 16th tweet
-Created at : Tue Jul 11 09:45:01 +0000 2017
-==============================================================
-Tweet #7 : this is 15th tweet
-Created at : Tue Jul 11 09:44:53 +0000 2017
-==============================================================
-Tweet #8 : this is 14th tweet
-Created at : Tue Jul 11 09:44:48 +0000 2017
-==============================================================
-Tweet #9 : this is 13th tweet
-Created at : Tue Jul 11 09:44:41 +0000 2017
-==============================================================
-Tweet #10 : this is 12th tweet
-Created at : Tue Jul 11 09:44:32 +0000 2017
-==============================================================
-Tweet #11 : this is 11th tweet
-Created at : Tue Jul 11 09:44:22 +0000 2017
-==============================================================
-Tweet #12 : this is 10th tweet
-Created at : Tue Jul 11 09:43:27 +0000 2017
-==============================================================
-Tweet #13 : this is 9th tweet
-Created at : Tue Jul 11 09:43:20 +0000 2017
-==============================================================
-Tweet #14 : this is 8th tweet
-Created at : Tue Jul 11 09:43:11 +0000 2017
-==============================================================
-Tweet #15 : this is 7th tweet
-Created at : Tue Jul 11 09:43:04 +0000 2017
-==============================================================
-Tweet #16 : this is 6th tweet
-Created at : Tue Jul 11 09:42:56 +0000 2017
-==============================================================
-Tweet #17 : this is 5th tweet
-Created at : Tue Jul 11 09:42:47 +0000 2017
-==============================================================
-Tweet #18 : this is 4th tweet
-Created at : Tue Jul 11 09:42:34 +0000 2017
-==============================================================
-Tweet #19 : this is 3rd tweet
-Created at : Tue Jul 11 09:42:23 +0000 2017
-==============================================================
-Tweet #20 : this is my second tweet.
-Created at : Tue Jul 11 09:39:17 +0000 2017
-==============================================================
-Movie title : El Cid
-Release Year: 1961
-IMDB Rating : 7.3
-Rotten Tomato Rating : 92%
-Country : Italy, USA
-Language : English, Latin
-Plot : The fabled Spanish hero Rodrigo Diaz (a.k.a. El Cid) overcomes a family vendetta and court intrigue to defend Christian Spain against the Moors.
-Actors : Charlton Heston, Sophia Loren, Raf Vallone, Geneviève Page
-==============================================================
-Artist name : Backstreet Boys
-Song name : I Want It That Way
-Album name : The Hits--Chapter One
-Preview URL : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1f766e3c4cd54043bf12f68ea40a33c2
-===============================
+===========================================

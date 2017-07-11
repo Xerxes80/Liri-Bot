@@ -1,12 +1,44 @@
 var request = require("request");
 var Twitter = require('twitter');
 var Spotify = require('node-spotify-api');
-var fs = require("fs");
-var command = process.argv[2];
-var secondArg = process.argv[3];
-
+var inquirer = require("inquirer");
 var keys = require("./keys.js");
-choice();
+var fs = require("fs");
+var command="";
+var secondArg ="";
+
+inquirer.prompt([
+
+  {
+    type: "list",
+    name: "doingWhat",
+    message: "Please choose an option :",
+    choices: ["my-tweets", "spotify-this-song", "movie-this","do-what-it-says"]
+  }
+
+]).then(function(user) {
+    command = user.doingWhat;
+    if (user.doingWhat === "my-tweets" || user.doingWhat === "do-what-it-says") {
+        choice();
+    }else{
+        inquirer.prompt([
+
+            {
+            type: "input",
+            name: "item",
+            message: "Please enter your search parameter :"
+            }
+
+        ]).then(function(param) {
+            if (param.item != ""){
+                secondArg = param.item;
+            }else{
+                secondArg = undefined;
+            }
+            choice();
+        });
+    }
+});
 function choice(){
     switch (command){
         case "my-tweets" :
@@ -36,11 +68,17 @@ function tweeter(){
     var params = {screen_name: 'nodejs'};
     client.get('statuses/user_timeline', {screen_name: '@kai1359', count: 20} , function(error, tweets, response) {
         if (!error) {
+            console.log("============== Last 20 tweets =============");
+            fs.appendFile("log.txt", "\n============== Last 20 tweets ============="+"\n===========================================", function(err) {
+                if (err) {
+                    return console.log(err);
+                }
+            });
             for (var i = 0 ; i < tweets.length; i++){
-                console.log("============= tweet number "+(i+1)+" ==========");
+                console.log("============== tweet number "+(i+1)+" =============");
                 console.log("Tweet #"+(i+1)+" : "+tweets[i].text);
                 console.log("Created at : "+tweets[i].created_at);
-                fs.appendFile("log.txt", "==============================="+"\nTweet #"+(i+1)+" : "+tweets[i].text+"\nCreated at : "+tweets[i].created_at+"\n===============================", function(err) {
+                fs.appendFile("log.txt", "\nTweet #"+(i+1)+" : "+tweets[i].text+"\nCreated at : "+tweets[i].created_at+"\n===========================================", function(err) {
                     if (err) {
                         return console.log(err);
                     }
@@ -62,19 +100,20 @@ function spotify(){
         secret: keys.spotifyKeys.secret 
     });
     spotify.search({ type: 'track', query: secondArg}).then(function(response) {
+        console.log("============ Spotify "+secondArg+" ===========");
         console.log("Artist name : "+response.tracks.items[0].artists[0].name);
         console.log("Song name : "+response.tracks.items[0].name);
         console.log("Album name : "+response.tracks.items[0].album.name);
         console.log("Preview URL : "+response.tracks.items[0].preview_url);
-        fs.appendFile("log.txt", "==============================="+"\nArtist name : "+response.tracks.items[0].artists[0].name+"\nSong name : "+response.tracks.items[0].name+"\nAlbum name : "+response.tracks.items[0].album.name+"\nPreview URL : "+response.tracks.items[0].preview_url+"\n===============================", function(err) {
-                    if (err) {
-                        return console.log(err);
-                    }
-                });
+        console.log("==========================================================");
+        fs.appendFile("log.txt", "\n=========== Spotify "+secondArg+" ==========="+"\nArtist name : "+response.tracks.items[0].artists[0].name+"\nSong name : "+response.tracks.items[0].name+"\nAlbum name : "+response.tracks.items[0].album.name+"\nPreview URL : "+response.tracks.items[0].preview_url+"\n==========================================================", function(err) {
+            if (err) {
+                return console.log(err);
+            }
+        });
     }).catch(function(err) {
         console.log(error);
     });
-
 };
 //============================ Movie function ==================================
 function movie(){
@@ -83,7 +122,6 @@ function movie(){
         secondArg = "Get The Gringo";
     }
     var queryUrl = "http://www.omdbapi.com/?t=" + secondArg + "&y=&plot=short&apikey="+key;
-    console.log(queryUrl);
     request(queryUrl, function(error, response, body) {
         if (!error && response.statusCode === 200) {
           console.log("============================== Movie Information =========================");
@@ -117,8 +155,10 @@ function random(){
 
         command = dataArg[0];
         secondArg = dataArg[1];
-        console.log(command);
-        console.log(secondArg);
+        console.log("===================================");
+        console.log("Random command is : "+command);
+        console.log("Default parameter is : "+secondArg);
+        console.log("===================================");
         choice();
     });
 };
