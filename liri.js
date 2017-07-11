@@ -106,7 +106,7 @@ function spotify(){
         console.log("Album name : "+response.tracks.items[0].album.name);
         console.log("Preview URL : "+response.tracks.items[0].preview_url);
         console.log("==========================================================");
-        fs.appendFile("log.txt", "\n=========== Spotify "+secondArg+" ==========="+"\nArtist name : "+response.tracks.items[0].artists[0].name+"\nSong name : "+response.tracks.items[0].name+"\nAlbum name : "+response.tracks.items[0].album.name+"\nPreview URL : "+response.tracks.items[0].preview_url+"\n==========================================================", function(err) {
+        fs.appendFile("log.txt", "\n=========== Spotify "+secondArg+" ==========="+"\nArtist name : "+response.tracks.items[0].artists[0].name+"\nSong name : "+response.tracks.items[0].name+"\nAlbum name : "+response.tracks.items[0].album.name+"\nPreview URL : "+response.tracks.items[0].preview_url+"\n===========================================", function(err) {
             if (err) {
                 return console.log(err);
             }
@@ -134,7 +134,7 @@ function movie(){
           console.log("Plot : " + JSON.parse(body).Plot);
           console.log("Actors : " + JSON.parse(body).Actors);
           console.log("==========================================================================");
-            fs.appendFile("log.txt", "==============================="+"\nMovie title : " + JSON.parse(body).Title+"\nRelease Year: " + JSON.parse(body).Year+"\nIMDB Rating : " + JSON.parse(body).imdbRating+"\nRotten Tomato Rating : " + JSON.parse(body).Ratings[1].Value+"\nCountry : " + JSON.parse(body).Country+"\nLanguage : " + JSON.parse(body).Language+"\nPlot : " + JSON.parse(body).Plot+"\nActors : " + JSON.parse(body).Actors+"\n===============================", function(err) {
+            fs.appendFile("log.txt", "\n============== Movie "+JSON.parse(body).Title+" =============="+"\nMovie title : " + JSON.parse(body).Title+"\nRelease Year: " + JSON.parse(body).Year+"\nIMDB Rating : " + JSON.parse(body).imdbRating+"\nRotten Tomato Rating : " + JSON.parse(body).Ratings[1].Value+"\nCountry : " + JSON.parse(body).Country+"\nLanguage : " + JSON.parse(body).Language+"\nPlot : " + JSON.parse(body).Plot+"\nActors : " + JSON.parse(body).Actors+"\n===========================================", function(err) {
                     if (err) {
                         return console.log(err);
                     }
