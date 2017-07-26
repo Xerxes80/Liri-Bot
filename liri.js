@@ -6,39 +6,41 @@ var keys = require("./keys.js");
 var fs = require("fs");
 var command="";
 var secondArg ="";
+console.log("========================================");
+starter();
+function starter(){
+    inquirer.prompt([
+      {
+        type: "list",
+        name: "doingWhat",
+        message: "Please choose an option :",
+        choices: ["my-tweets", "spotify-this-song", "movie-this","do-what-it-says"]
+      }
 
-inquirer.prompt([
-
-  {
-    type: "list",
-    name: "doingWhat",
-    message: "Please choose an option :",
-    choices: ["my-tweets", "spotify-this-song", "movie-this","do-what-it-says"]
-  }
-
-]).then(function(user) {
-    command = user.doingWhat;
-    if (user.doingWhat === "my-tweets" || user.doingWhat === "do-what-it-says") {
-        choice();
-    }else{
-        inquirer.prompt([
-
-            {
-            type: "input",
-            name: "item",
-            message: "Please enter your search parameter :"
-            }
-
-        ]).then(function(param) {
-            if (param.item != ""){
-                secondArg = param.item;
-            }else{
-                secondArg = undefined;
-            }
+    ]).then(function(user) {
+        command = user.doingWhat;
+        if (user.doingWhat === "my-tweets" || user.doingWhat === "do-what-it-says") {
             choice();
-        });
-    }
-});
+        }else{
+            inquirer.prompt([
+
+                {
+                type: "input",
+                name: "item",
+                message: "Please enter your search parameter :"
+                }
+
+            ]).then(function(param) {
+                if (param.item != ""){
+                    secondArg = param.item;
+                }else{
+                    secondArg = undefined;
+                }
+                choice();
+            });
+        }
+    });
+};
 function choice(){
     switch (command){
         case "my-tweets" :
@@ -64,83 +66,102 @@ function tweeter(){
         access_token_key: keys.twitterKeys.access_token_key,
         access_token_secret: keys.twitterKeys.access_token_secret
     });
-
+    var screen_name = keys.twitterKeys.screen_name;
     var params = {screen_name: 'nodejs'};
-    client.get('statuses/user_timeline', {screen_name: '@kai1359', count: 20} , function(error, tweets, response) {
+    client.get('statuses/user_timeline', {screen_name: screen_name, count: 20} , function(error, tweets, response) {
         if (!error) {
-            console.log("============== Last 20 tweets =============");
-            fs.appendFile("log.txt", "\n============== Last 20 tweets ============="+"\n===========================================", function(err) {
+            console.log("================ Last 20 tweets ===============");
+            fs.appendFile("log.txt", "\n================ Last 20 tweets ==============="+"\n===============================================", function(err) {
                 if (err) {
                     return console.log(err);
                 }
             });
             for (var i = 0 ; i < tweets.length; i++){
-                console.log("============== tweet number "+(i+1)+" =============");
+                console.log("================ tweet number "+(i+1)+" ===============");
                 console.log("Tweet #"+(i+1)+" : "+tweets[i].text);
                 console.log("Created at : "+tweets[i].created_at);
-                fs.appendFile("log.txt", "\nTweet #"+(i+1)+" : "+tweets[i].text+"\nCreated at : "+tweets[i].created_at+"\n===========================================", function(err) {
+                fs.appendFile("log.txt", "\nTweet #"+(i+1)+" : "+tweets[i].text+"\nCreated at : "+tweets[i].created_at+"\n===============================================", function(err) {
                     if (err) {
                         return console.log(err);
                     }
                 });
             };
-                console.log("========================================");
+            
+            console.log("================================================");
         }else{
             console.log(error);
         };
+        starter();
     });
+    
 };
 //============================ Spotify function ================================
 function spotify(){
     if(secondArg == undefined){
-        secondArg = "The Sign ace of base";
+        secondArg = keys.spotifyKeys.default_name;
     }
     var spotify = new Spotify({
         id: keys.spotifyKeys.id,
         secret: keys.spotifyKeys.secret 
     });
     spotify.search({ type: 'track', query: secondArg}).then(function(response) {
-        console.log("============ Spotify "+secondArg+" ===========");
-        console.log("Artist name : "+response.tracks.items[0].artists[0].name);
-        console.log("Song name : "+response.tracks.items[0].name);
-        console.log("Album name : "+response.tracks.items[0].album.name);
-        console.log("Preview URL : "+response.tracks.items[0].preview_url);
-        console.log("==========================================================");
-        fs.appendFile("log.txt", "\n=========== Spotify "+secondArg+" ==========="+"\nArtist name : "+response.tracks.items[0].artists[0].name+"\nSong name : "+response.tracks.items[0].name+"\nAlbum name : "+response.tracks.items[0].album.name+"\nPreview URL : "+response.tracks.items[0].preview_url+"\n===========================================", function(err) {
-            if (err) {
-                return console.log(err);
-            }
-        });
+        console.log("================= Spotify "+secondArg+" ==================");
+        if ( response.tracks.items.length <= 0 ){
+              console.log("Liri: "+secondArg+" is not recognized.");
+        }else{
+            console.log("Artist name : "+response.tracks.items[0].artists[0].name);
+            console.log("Song name : "+response.tracks.items[0].name);
+            console.log("Album name : "+response.tracks.items[0].album.name);
+            console.log("Preview URL : "+response.tracks.items[0].preview_url);
+            console.log("================================================");
+            fs.appendFile("log.txt", "\n============= Spotify "+secondArg+" ==========="+"\nArtist name : "+response.tracks.items[0].artists[0].name+"\nSong name : "+response.tracks.items[0].name+"\nAlbum name : "+response.tracks.items[0].album.name+"\nPreview URL : "+response.tracks.items[0].preview_url+"\n============================================", function(err) {
+                if (err) {
+                    return console.log(err);
+                }
+            });
+        }
+        starter();
     }).catch(function(err) {
         console.log(error);
     });
+    
+    
 };
 //============================ Movie function ==================================
 function movie(){
     var key = keys.imdbKey.consumer_key;
     if(secondArg == undefined){
-        secondArg = "Get The Gringo";
+        secondArg = keys.imdbKey.default_name;
     }
     var queryUrl = "http://www.omdbapi.com/?t=" + secondArg + "&y=&plot=short&apikey="+key;
     request(queryUrl, function(error, response, body) {
         if (!error && response.statusCode === 200) {
-          console.log("============================== Movie Information =========================");
-          console.log("Movie title : " + JSON.parse(body).Title);
-          console.log("Release Year: " + JSON.parse(body).Year);
-          console.log("IMDB Rating : " + JSON.parse(body).imdbRating);
-          console.log("Rotten Tomato Rating : " + JSON.parse(body).Ratings[1].Value);
-          console.log("Country : " + JSON.parse(body).Country);
-          console.log("Language : " + JSON.parse(body).Language);
-          console.log("Plot : " + JSON.parse(body).Plot);
-          console.log("Actors : " + JSON.parse(body).Actors);
-          console.log("==========================================================================");
+            console.log("============================== Movie Information =========================");
+            if (JSON.parse(body).Title === undefined){
+              console.log("Liri: "+secondArg+" is not recognized.");
+            }else{
+            console.log("Movie title : " + JSON.parse(body).Title);
+            console.log("Release Year: " + JSON.parse(body).Year);
+            console.log("IMDB Rating : " + JSON.parse(body).imdbRating);
+            console.log("Rotten Tomato Rating : " + JSON.parse(body).Ratings[1].Value);
+            console.log("Country : " + JSON.parse(body).Country);
+            console.log("Language : " + JSON.parse(body).Language);
+            console.log("Plot : " + JSON.parse(body).Plot);
+            console.log("Actors : " + JSON.parse(body).Actors);
+            console.log("==========================================================================");
             fs.appendFile("log.txt", "\n============== Movie "+JSON.parse(body).Title+" =============="+"\nMovie title : " + JSON.parse(body).Title+"\nRelease Year: " + JSON.parse(body).Year+"\nIMDB Rating : " + JSON.parse(body).imdbRating+"\nRotten Tomato Rating : " + JSON.parse(body).Ratings[1].Value+"\nCountry : " + JSON.parse(body).Country+"\nLanguage : " + JSON.parse(body).Language+"\nPlot : " + JSON.parse(body).Plot+"\nActors : " + JSON.parse(body).Actors+"\n===========================================", function(err) {
                     if (err) {
                         return console.log(err);
                     }
                 });
+            }
+        }else if(error){
+            console.log(error);
+            
         };
+        starter();
     });
+     
 };
 //============================ Random function =================================
 function random(){
@@ -148,10 +169,10 @@ function random(){
         if (err) {
             return console.log(err);
         };  
-        var r = Math.floor((Math.random() * 3));
+        var random = Math.floor((Math.random() * 3));
 
         var dataArray = data.split("\n");
-        var dataArg = dataArray[r].split(",");
+        var dataArg = dataArray[random].split(",");
 
         command = dataArg[0];
         secondArg = dataArg[1];

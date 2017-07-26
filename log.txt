@@ -77,3 +77,829 @@ Created at : Tue Jul 11 09:42:23 +0000 2017
 Tweet #20 : this is my second tweet.
 Created at : Tue Jul 11 09:39:17 +0000 2017
 ===========================================
+============== Last 20 tweets =============
+===========================================
+Tweet #1 : this is 21st tweet
+Created at : Tue Jul 11 09:45:47 +0000 2017
+===========================================
+Tweet #2 : this is 20th tweet
+Created at : Tue Jul 11 09:45:31 +0000 2017
+===========================================
+Tweet #3 : this is 19th tweet
+Created at : Tue Jul 11 09:45:22 +0000 2017
+===========================================
+Tweet #4 : this is 18th tweet
+Created at : Tue Jul 11 09:45:14 +0000 2017
+===========================================
+Tweet #5 : this is 17th tweet
+Created at : Tue Jul 11 09:45:07 +0000 2017
+===========================================
+Tweet #6 : this is 16th tweet
+Created at : Tue Jul 11 09:45:01 +0000 2017
+===========================================
+Tweet #7 : this is 15th tweet
+Created at : Tue Jul 11 09:44:53 +0000 2017
+===========================================
+Tweet #8 : this is 14th tweet
+Created at : Tue Jul 11 09:44:48 +0000 2017
+===========================================
+Tweet #9 : this is 13th tweet
+Created at : Tue Jul 11 09:44:41 +0000 2017
+===========================================
+Tweet #10 : this is 12th tweet
+Created at : Tue Jul 11 09:44:32 +0000 2017
+===========================================
+Tweet #11 : this is 11th tweet
+Created at : Tue Jul 11 09:44:22 +0000 2017
+===========================================
+Tweet #12 : this is 10th tweet
+Created at : Tue Jul 11 09:43:27 +0000 2017
+===========================================
+Tweet #13 : this is 9th tweet
+Created at : Tue Jul 11 09:43:20 +0000 2017
+===========================================
+Tweet #14 : this is 8th tweet
+Created at : Tue Jul 11 09:43:11 +0000 2017
+===========================================
+Tweet #15 : this is 7th tweet
+Created at : Tue Jul 11 09:43:04 +0000 2017
+===========================================
+Tweet #16 : this is 6th tweet
+Created at : Tue Jul 11 09:42:56 +0000 2017
+===========================================
+Tweet #17 : this is 5th tweet
+Created at : Tue Jul 11 09:42:47 +0000 2017
+===========================================
+Tweet #18 : this is 4th tweet
+Created at : Tue Jul 11 09:42:34 +0000 2017
+===========================================
+Tweet #19 : this is 3rd tweet
+Created at : Tue Jul 11 09:42:23 +0000 2017
+===========================================
+Tweet #20 : this is my second tweet.
+Created at : Tue Jul 11 09:39:17 +0000 2017
+===========================================
+=========== Spotify love it ===========
+Artist name : Icona Pop
+Song name : I Love It (feat. Charli XCX) - Original Version
+Album name : I Love It
+Preview URL : https://p.scdn.co/mp3-preview/53d0fca6eb2c0180aeed0d6db7703d3f3d2c1c77?cid=1f766e3c4cd54043bf12f68ea40a33c2
+===========================================
+============== Last 20 tweets =============
+===========================================
+Tweet #1 : this is 21st tweet
+Created at : Tue Jul 11 09:45:47 +0000 2017
+===========================================
+Tweet #2 : this is 20th tweet
+Created at : Tue Jul 11 09:45:31 +0000 2017
+===========================================
+Tweet #3 : this is 19th tweet
+Created at : Tue Jul 11 09:45:22 +0000 2017
+===========================================
+Tweet #4 : this is 18th tweet
+Created at : Tue Jul 11 09:45:14 +0000 2017
+===========================================
+Tweet #5 : this is 17th tweet
+Created at : Tue Jul 11 09:45:07 +0000 2017
+===========================================
+Tweet #6 : this is 16th tweet
+Created at : Tue Jul 11 09:45:01 +0000 2017
+===========================================
+Tweet #7 : this is 15th tweet
+Created at : Tue Jul 11 09:44:53 +0000 2017
+===========================================
+Tweet #8 : this is 14th tweet
+Created at : Tue Jul 11 09:44:48 +0000 2017
+===========================================
+Tweet #9 : this is 13th tweet
+Created at : Tue Jul 11 09:44:41 +0000 2017
+===========================================
+Tweet #10 : this is 12th tweet
+Created at : Tue Jul 11 09:44:32 +0000 2017
+===========================================
+Tweet #11 : this is 11th tweet
+Created at : Tue Jul 11 09:44:22 +0000 2017
+===========================================
+Tweet #12 : this is 10th tweet
+Created at : Tue Jul 11 09:43:27 +0000 2017
+===========================================
+Tweet #13 : this is 9th tweet
+Created at : Tue Jul 11 09:43:20 +0000 2017
+===========================================
+Tweet #14 : this is 8th tweet
+Created at : Tue Jul 11 09:43:11 +0000 2017
+===========================================
+Tweet #15 : this is 7th tweet
+Created at : Tue Jul 11 09:43:04 +0000 2017
+===========================================
+Tweet #16 : this is 6th tweet
+Created at : Tue Jul 11 09:42:56 +0000 2017
+===========================================
+Tweet #17 : this is 5th tweet
+Created at : Tue Jul 11 09:42:47 +0000 2017
+===========================================
+Tweet #18 : this is 4th tweet
+Created at : Tue Jul 11 09:42:34 +0000 2017
+===========================================
+Tweet #19 : this is 3rd tweet
+Created at : Tue Jul 11 09:42:23 +0000 2017
+===========================================
+Tweet #20 : this is my second tweet.
+Created at : Tue Jul 11 09:39:17 +0000 2017
+===========================================
+============== Last 20 tweets =============
+===========================================
+Tweet #1 : this is 21st tweet
+Created at : Tue Jul 11 09:45:47 +0000 2017
+===========================================
+Tweet #2 : this is 20th tweet
+Created at : Tue Jul 11 09:45:31 +0000 2017
+===========================================
+Tweet #3 : this is 19th tweet
+Created at : Tue Jul 11 09:45:22 +0000 2017
+===========================================
+Tweet #4 : this is 18th tweet
+Created at : Tue Jul 11 09:45:14 +0000 2017
+===========================================
+Tweet #5 : this is 17th tweet
+Created at : Tue Jul 11 09:45:07 +0000 2017
+===========================================
+Tweet #6 : this is 16th tweet
+Created at : Tue Jul 11 09:45:01 +0000 2017
+===========================================
+Tweet #7 : this is 15th tweet
+Created at : Tue Jul 11 09:44:53 +0000 2017
+===========================================
+Tweet #8 : this is 14th tweet
+Created at : Tue Jul 11 09:44:48 +0000 2017
+===========================================
+Tweet #9 : this is 13th tweet
+Created at : Tue Jul 11 09:44:41 +0000 2017
+===========================================
+Tweet #10 : this is 12th tweet
+Created at : Tue Jul 11 09:44:32 +0000 2017
+===========================================
+Tweet #11 : this is 11th tweet
+Created at : Tue Jul 11 09:44:22 +0000 2017
+===========================================
+Tweet #12 : this is 10th tweet
+Created at : Tue Jul 11 09:43:27 +0000 2017
+===========================================
+Tweet #13 : this is 9th tweet
+Created at : Tue Jul 11 09:43:20 +0000 2017
+===========================================
+Tweet #14 : this is 8th tweet
+Created at : Tue Jul 11 09:43:11 +0000 2017
+===========================================
+Tweet #15 : this is 7th tweet
+Created at : Tue Jul 11 09:43:04 +0000 2017
+===========================================
+Tweet #16 : this is 6th tweet
+Created at : Tue Jul 11 09:42:56 +0000 2017
+===========================================
+Tweet #17 : this is 5th tweet
+Created at : Tue Jul 11 09:42:47 +0000 2017
+===========================================
+Tweet #18 : this is 4th tweet
+Created at : Tue Jul 11 09:42:34 +0000 2017
+===========================================
+Tweet #19 : this is 3rd tweet
+Created at : Tue Jul 11 09:42:23 +0000 2017
+===========================================
+Tweet #20 : this is my second tweet.
+Created at : Tue Jul 11 09:39:17 +0000 2017
+===========================================
+=========== Spotify I Want it That Way ===========
+Artist name : Backstreet Boys
+Song name : I Want It That Way
+Album name : The Hits--Chapter One
+Preview URL : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1f766e3c4cd54043bf12f68ea40a33c2
+===========================================
+============== Movie The Knack... and How to Get It ==============
+Movie title : The Knack... and How to Get It
+Release Year: 1965
+IMDB Rating : 6.8
+Rotten Tomato Rating : 78%
+Country : UK
+Language : English
+Plot : In England, the times are a changing: it's mods and rockers. On the day Nancy gets off the London train, cases in hand, looking for the YWCA, Colin has had enough of missing out on the ...
+Actors : Rita Tushingham, Ray Brooks, Michael Crawford, Donal Donnelly
+===========================================
+=========== Spotify love you ===========
+Artist name : DJ Snake
+Song name : Let Me Love You
+Album name : Encore
+Preview URL : null
+===========================================
+============== Movie Get the Gringo ==============
+Movie title : Get the Gringo
+Release Year: 2012
+IMDB Rating : 7.0
+Rotten Tomato Rating : 81%
+Country : USA
+Language : English, Spanish
+Plot : A career criminal nabbed by Mexican authorities is placed in a tough prison where he learns to survive with the help of a young boy.
+Actors : Mel Gibson, Kevin Balmore, Daniel Giménez Cacho, Jesús Ochoa
+===========================================
+============== Last 20 tweets =============
+===========================================
+Tweet #1 : this is 21st tweet
+Created at : Tue Jul 11 09:45:47 +0000 2017
+===========================================
+Tweet #2 : this is 20th tweet
+Created at : Tue Jul 11 09:45:31 +0000 2017
+===========================================
+Tweet #3 : this is 19th tweet
+Created at : Tue Jul 11 09:45:22 +0000 2017
+===========================================
+Tweet #4 : this is 18th tweet
+Created at : Tue Jul 11 09:45:14 +0000 2017
+===========================================
+Tweet #5 : this is 17th tweet
+Created at : Tue Jul 11 09:45:07 +0000 2017
+===========================================
+Tweet #6 : this is 16th tweet
+Created at : Tue Jul 11 09:45:01 +0000 2017
+===========================================
+Tweet #7 : this is 15th tweet
+Created at : Tue Jul 11 09:44:53 +0000 2017
+===========================================
+Tweet #8 : this is 14th tweet
+Created at : Tue Jul 11 09:44:48 +0000 2017
+===========================================
+Tweet #9 : this is 13th tweet
+Created at : Tue Jul 11 09:44:41 +0000 2017
+===========================================
+Tweet #10 : this is 12th tweet
+Created at : Tue Jul 11 09:44:32 +0000 2017
+===========================================
+Tweet #11 : this is 11th tweet
+Created at : Tue Jul 11 09:44:22 +0000 2017
+===========================================
+Tweet #12 : this is 10th tweet
+Created at : Tue Jul 11 09:43:27 +0000 2017
+===========================================
+Tweet #13 : this is 9th tweet
+Created at : Tue Jul 11 09:43:20 +0000 2017
+===========================================
+Tweet #14 : this is 8th tweet
+Created at : Tue Jul 11 09:43:11 +0000 2017
+===========================================
+Tweet #15 : this is 7th tweet
+Created at : Tue Jul 11 09:43:04 +0000 2017
+===========================================
+Tweet #16 : this is 6th tweet
+Created at : Tue Jul 11 09:42:56 +0000 2017
+===========================================
+Tweet #17 : this is 5th tweet
+Created at : Tue Jul 11 09:42:47 +0000 2017
+===========================================
+Tweet #18 : this is 4th tweet
+Created at : Tue Jul 11 09:42:34 +0000 2017
+===========================================
+Tweet #19 : this is 3rd tweet
+Created at : Tue Jul 11 09:42:23 +0000 2017
+===========================================
+Tweet #20 : this is my second tweet.
+Created at : Tue Jul 11 09:39:17 +0000 2017
+===========================================
+============== Last 20 tweets =============
+===========================================
+Tweet #1 : this is 21st tweet
+Created at : Tue Jul 11 09:45:47 +0000 2017
+===========================================
+Tweet #2 : this is 20th tweet
+Created at : Tue Jul 11 09:45:31 +0000 2017
+===========================================
+Tweet #3 : this is 19th tweet
+Created at : Tue Jul 11 09:45:22 +0000 2017
+===========================================
+Tweet #4 : this is 18th tweet
+Created at : Tue Jul 11 09:45:14 +0000 2017
+===========================================
+Tweet #5 : this is 17th tweet
+Created at : Tue Jul 11 09:45:07 +0000 2017
+===========================================
+Tweet #6 : this is 16th tweet
+Created at : Tue Jul 11 09:45:01 +0000 2017
+===========================================
+Tweet #7 : this is 15th tweet
+Created at : Tue Jul 11 09:44:53 +0000 2017
+===========================================
+Tweet #8 : this is 14th tweet
+Created at : Tue Jul 11 09:44:48 +0000 2017
+===========================================
+Tweet #9 : this is 13th tweet
+Created at : Tue Jul 11 09:44:41 +0000 2017
+===========================================
+Tweet #10 : this is 12th tweet
+Created at : Tue Jul 11 09:44:32 +0000 2017
+===========================================
+Tweet #11 : this is 11th tweet
+Created at : Tue Jul 11 09:44:22 +0000 2017
+===========================================
+Tweet #12 : this is 10th tweet
+Created at : Tue Jul 11 09:43:27 +0000 2017
+===========================================
+Tweet #13 : this is 9th tweet
+Created at : Tue Jul 11 09:43:20 +0000 2017
+===========================================
+Tweet #14 : this is 8th tweet
+Created at : Tue Jul 11 09:43:11 +0000 2017
+===========================================
+Tweet #15 : this is 7th tweet
+Created at : Tue Jul 11 09:43:04 +0000 2017
+===========================================
+Tweet #16 : this is 6th tweet
+Created at : Tue Jul 11 09:42:56 +0000 2017
+===========================================
+Tweet #17 : this is 5th tweet
+Created at : Tue Jul 11 09:42:47 +0000 2017
+===========================================
+Tweet #18 : this is 4th tweet
+Created at : Tue Jul 11 09:42:34 +0000 2017
+===========================================
+Tweet #19 : this is 3rd tweet
+Created at : Tue Jul 11 09:42:23 +0000 2017
+===========================================
+Tweet #20 : this is my second tweet.
+Created at : Tue Jul 11 09:39:17 +0000 2017
+===========================================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+=========== Spotify love  ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===============================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+============== Last 20 tweets =============
+===========================================
+Tweet #1 : this is 21st tweet
+Created at : Tue Jul 11 09:45:47 +0000 2017
+===========================================
+Tweet #2 : this is 20th tweet
+Created at : Tue Jul 11 09:45:31 +0000 2017
+===========================================
+Tweet #3 : this is 19th tweet
+Created at : Tue Jul 11 09:45:22 +0000 2017
+===========================================
+Tweet #4 : this is 18th tweet
+Created at : Tue Jul 11 09:45:14 +0000 2017
+===========================================
+Tweet #5 : this is 17th tweet
+Created at : Tue Jul 11 09:45:07 +0000 2017
+===========================================
+Tweet #6 : this is 16th tweet
+Created at : Tue Jul 11 09:45:01 +0000 2017
+===========================================
+Tweet #7 : this is 15th tweet
+Created at : Tue Jul 11 09:44:53 +0000 2017
+===========================================
+Tweet #8 : this is 14th tweet
+Created at : Tue Jul 11 09:44:48 +0000 2017
+===========================================
+Tweet #9 : this is 13th tweet
+Created at : Tue Jul 11 09:44:41 +0000 2017
+===========================================
+Tweet #10 : this is 12th tweet
+Created at : Tue Jul 11 09:44:32 +0000 2017
+===========================================
+Tweet #11 : this is 11th tweet
+Created at : Tue Jul 11 09:44:22 +0000 2017
+===========================================
+Tweet #12 : this is 10th tweet
+Created at : Tue Jul 11 09:43:27 +0000 2017
+===========================================
+Tweet #13 : this is 9th tweet
+Created at : Tue Jul 11 09:43:20 +0000 2017
+===========================================
+Tweet #14 : this is 8th tweet
+Created at : Tue Jul 11 09:43:11 +0000 2017
+===========================================
+Tweet #15 : this is 7th tweet
+Created at : Tue Jul 11 09:43:04 +0000 2017
+===========================================
+Tweet #16 : this is 6th tweet
+Created at : Tue Jul 11 09:42:56 +0000 2017
+===========================================
+Tweet #17 : this is 5th tweet
+Created at : Tue Jul 11 09:42:47 +0000 2017
+===========================================
+Tweet #18 : this is 4th tweet
+Created at : Tue Jul 11 09:42:34 +0000 2017
+===========================================
+Tweet #19 : this is 3rd tweet
+Created at : Tue Jul 11 09:42:23 +0000 2017
+===========================================
+Tweet #20 : this is my second tweet.
+Created at : Tue Jul 11 09:39:17 +0000 2017
+===========================================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+============== Last 20 tweets =============
+===========================================
+Tweet #1 : this is 21st tweet
+Created at : Tue Jul 11 09:45:47 +0000 2017
+===========================================
+Tweet #2 : this is 20th tweet
+Created at : Tue Jul 11 09:45:31 +0000 2017
+===========================================
+Tweet #3 : this is 19th tweet
+Created at : Tue Jul 11 09:45:22 +0000 2017
+===========================================
+Tweet #4 : this is 18th tweet
+Created at : Tue Jul 11 09:45:14 +0000 2017
+===========================================
+Tweet #5 : this is 17th tweet
+Created at : Tue Jul 11 09:45:07 +0000 2017
+===========================================
+Tweet #6 : this is 16th tweet
+Created at : Tue Jul 11 09:45:01 +0000 2017
+===========================================
+Tweet #7 : this is 15th tweet
+Created at : Tue Jul 11 09:44:53 +0000 2017
+===========================================
+Tweet #8 : this is 14th tweet
+Created at : Tue Jul 11 09:44:48 +0000 2017
+===========================================
+Tweet #9 : this is 13th tweet
+Created at : Tue Jul 11 09:44:41 +0000 2017
+===========================================
+Tweet #10 : this is 12th tweet
+Created at : Tue Jul 11 09:44:32 +0000 2017
+===========================================
+Tweet #11 : this is 11th tweet
+Created at : Tue Jul 11 09:44:22 +0000 2017
+===========================================
+Tweet #12 : this is 10th tweet
+Created at : Tue Jul 11 09:43:27 +0000 2017
+===========================================
+Tweet #13 : this is 9th tweet
+Created at : Tue Jul 11 09:43:20 +0000 2017
+===========================================
+Tweet #14 : this is 8th tweet
+Created at : Tue Jul 11 09:43:11 +0000 2017
+===========================================
+Tweet #15 : this is 7th tweet
+Created at : Tue Jul 11 09:43:04 +0000 2017
+===========================================
+Tweet #16 : this is 6th tweet
+Created at : Tue Jul 11 09:42:56 +0000 2017
+===========================================
+Tweet #17 : this is 5th tweet
+Created at : Tue Jul 11 09:42:47 +0000 2017
+===========================================
+Tweet #18 : this is 4th tweet
+Created at : Tue Jul 11 09:42:34 +0000 2017
+===========================================
+Tweet #19 : this is 3rd tweet
+Created at : Tue Jul 11 09:42:23 +0000 2017
+===========================================
+Tweet #20 : this is my second tweet.
+Created at : Tue Jul 11 09:39:17 +0000 2017
+===========================================
+================ Last 20 tweets ===============
+===============================================
+Tweet #1 : this is 21st tweet
+Created at : Tue Jul 11 09:45:47 +0000 2017
+===============================================
+Tweet #2 : this is 20th tweet
+Created at : Tue Jul 11 09:45:31 +0000 2017
+===============================================
+Tweet #3 : this is 19th tweet
+Created at : Tue Jul 11 09:45:22 +0000 2017
+===============================================
+Tweet #4 : this is 18th tweet
+Created at : Tue Jul 11 09:45:14 +0000 2017
+===============================================
+Tweet #5 : this is 17th tweet
+Created at : Tue Jul 11 09:45:07 +0000 2017
+===============================================
+Tweet #6 : this is 16th tweet
+Created at : Tue Jul 11 09:45:01 +0000 2017
+===============================================
+Tweet #7 : this is 15th tweet
+Created at : Tue Jul 11 09:44:53 +0000 2017
+===============================================
+Tweet #8 : this is 14th tweet
+Created at : Tue Jul 11 09:44:48 +0000 2017
+===============================================
+Tweet #9 : this is 13th tweet
+Created at : Tue Jul 11 09:44:41 +0000 2017
+===============================================
+Tweet #10 : this is 12th tweet
+Created at : Tue Jul 11 09:44:32 +0000 2017
+===============================================
+Tweet #11 : this is 11th tweet
+Created at : Tue Jul 11 09:44:22 +0000 2017
+===============================================
+Tweet #12 : this is 10th tweet
+Created at : Tue Jul 11 09:43:27 +0000 2017
+===============================================
+Tweet #13 : this is 9th tweet
+Created at : Tue Jul 11 09:43:20 +0000 2017
+===============================================
+Tweet #14 : this is 8th tweet
+Created at : Tue Jul 11 09:43:11 +0000 2017
+===============================================
+Tweet #15 : this is 7th tweet
+Created at : Tue Jul 11 09:43:04 +0000 2017
+===============================================
+Tweet #16 : this is 6th tweet
+Created at : Tue Jul 11 09:42:56 +0000 2017
+===============================================
+Tweet #17 : this is 5th tweet
+Created at : Tue Jul 11 09:42:47 +0000 2017
+===============================================
+Tweet #18 : this is 4th tweet
+Created at : Tue Jul 11 09:42:34 +0000 2017
+===============================================
+Tweet #19 : this is 3rd tweet
+Created at : Tue Jul 11 09:42:23 +0000 2017
+===============================================
+Tweet #20 : this is my second tweet.
+Created at : Tue Jul 11 09:39:17 +0000 2017
+===============================================
+================ Last 20 tweets ===============
+===============================================
+Tweet #1 : this is 21st tweet
+Created at : Tue Jul 11 09:45:47 +0000 2017
+===============================================
+Tweet #2 : this is 20th tweet
+Created at : Tue Jul 11 09:45:31 +0000 2017
+===============================================
+Tweet #3 : this is 19th tweet
+Created at : Tue Jul 11 09:45:22 +0000 2017
+===============================================
+Tweet #4 : this is 18th tweet
+Created at : Tue Jul 11 09:45:14 +0000 2017
+===============================================
+Tweet #5 : this is 17th tweet
+Created at : Tue Jul 11 09:45:07 +0000 2017
+===============================================
+Tweet #6 : this is 16th tweet
+Created at : Tue Jul 11 09:45:01 +0000 2017
+===============================================
+Tweet #7 : this is 15th tweet
+Created at : Tue Jul 11 09:44:53 +0000 2017
+===============================================
+Tweet #8 : this is 14th tweet
+Created at : Tue Jul 11 09:44:48 +0000 2017
+===============================================
+Tweet #9 : this is 13th tweet
+Created at : Tue Jul 11 09:44:41 +0000 2017
+===============================================
+Tweet #10 : this is 12th tweet
+Created at : Tue Jul 11 09:44:32 +0000 2017
+===============================================
+Tweet #11 : this is 11th tweet
+Created at : Tue Jul 11 09:44:22 +0000 2017
+===============================================
+Tweet #12 : this is 10th tweet
+Created at : Tue Jul 11 09:43:27 +0000 2017
+===============================================
+Tweet #13 : this is 9th tweet
+Created at : Tue Jul 11 09:43:20 +0000 2017
+===============================================
+Tweet #14 : this is 8th tweet
+Created at : Tue Jul 11 09:43:11 +0000 2017
+===============================================
+Tweet #15 : this is 7th tweet
+Created at : Tue Jul 11 09:43:04 +0000 2017
+===============================================
+Tweet #16 : this is 6th tweet
+Created at : Tue Jul 11 09:42:56 +0000 2017
+===============================================
+Tweet #17 : this is 5th tweet
+Created at : Tue Jul 11 09:42:47 +0000 2017
+===============================================
+Tweet #18 : this is 4th tweet
+Created at : Tue Jul 11 09:42:34 +0000 2017
+===============================================
+Tweet #19 : this is 3rd tweet
+Created at : Tue Jul 11 09:42:23 +0000 2017
+===============================================
+Tweet #20 : this is my second tweet.
+Created at : Tue Jul 11 09:39:17 +0000 2017
+===============================================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+================ Last 20 tweets ===============
+===============================================
+Tweet #1 : this is 21st tweet
+Created at : Tue Jul 11 09:45:47 +0000 2017
+===============================================
+Tweet #2 : this is 20th tweet
+Created at : Tue Jul 11 09:45:31 +0000 2017
+===============================================
+Tweet #3 : this is 19th tweet
+Created at : Tue Jul 11 09:45:22 +0000 2017
+===============================================
+Tweet #4 : this is 18th tweet
+Created at : Tue Jul 11 09:45:14 +0000 2017
+===============================================
+Tweet #5 : this is 17th tweet
+Created at : Tue Jul 11 09:45:07 +0000 2017
+===============================================
+Tweet #6 : this is 16th tweet
+Created at : Tue Jul 11 09:45:01 +0000 2017
+===============================================
+Tweet #7 : this is 15th tweet
+Created at : Tue Jul 11 09:44:53 +0000 2017
+===============================================
+Tweet #8 : this is 14th tweet
+Created at : Tue Jul 11 09:44:48 +0000 2017
+===============================================
+Tweet #9 : this is 13th tweet
+Created at : Tue Jul 11 09:44:41 +0000 2017
+===============================================
+Tweet #10 : this is 12th tweet
+Created at : Tue Jul 11 09:44:32 +0000 2017
+===============================================
+Tweet #11 : this is 11th tweet
+Created at : Tue Jul 11 09:44:22 +0000 2017
+===============================================
+Tweet #12 : this is 10th tweet
+Created at : Tue Jul 11 09:43:27 +0000 2017
+===============================================
+Tweet #13 : this is 9th tweet
+Created at : Tue Jul 11 09:43:20 +0000 2017
+===============================================
+Tweet #14 : this is 8th tweet
+Created at : Tue Jul 11 09:43:11 +0000 2017
+===============================================
+Tweet #15 : this is 7th tweet
+Created at : Tue Jul 11 09:43:04 +0000 2017
+===============================================
+Tweet #16 : this is 6th tweet
+Created at : Tue Jul 11 09:42:56 +0000 2017
+===============================================
+Tweet #17 : this is 5th tweet
+Created at : Tue Jul 11 09:42:47 +0000 2017
+===============================================
+Tweet #18 : this is 4th tweet
+Created at : Tue Jul 11 09:42:34 +0000 2017
+===============================================
+Tweet #19 : this is 3rd tweet
+Created at : Tue Jul 11 09:42:23 +0000 2017
+===============================================
+Tweet #20 : this is my second tweet.
+Created at : Tue Jul 11 09:39:17 +0000 2017
+===============================================
+=========== Spotify love ===========
+Artist name : Childish Gambino
+Song name : Redbone
+Album name : "Awaken, My Love!"
+Preview URL : null
+===========================================
+============== Movie Love ==============
+Movie title : Love
+Release Year: 2015
+IMDB Rating : 6.0
+Rotten Tomato Rating : 42%
+Country : France, Belgium
+Language : English, French
+Plot : Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the effect it will have on their relationship, they invite their pretty neighbor into their bed.
+Actors : Aomi Muyock, Karl Glusman, Klara Kristin, Ugo Fox
+===========================================
+================ Last 20 tweets ===============
+===============================================
+Tweet #1 : this is 21st tweet
+Created at : Tue Jul 11 09:45:47 +0000 2017
+===============================================
+Tweet #2 : this is 20th tweet
+Created at : Tue Jul 11 09:45:31 +0000 2017
+===============================================
+Tweet #3 : this is 19th tweet
+Created at : Tue Jul 11 09:45:22 +0000 2017
+===============================================
+Tweet #4 : this is 18th tweet
+Created at : Tue Jul 11 09:45:14 +0000 2017
+===============================================
+Tweet #5 : this is 17th tweet
+Created at : Tue Jul 11 09:45:07 +0000 2017
+===============================================
+Tweet #6 : this is 16th tweet
+Created at : Tue Jul 11 09:45:01 +0000 2017
+===============================================
+Tweet #7 : this is 15th tweet
+Created at : Tue Jul 11 09:44:53 +0000 2017
+===============================================
+Tweet #8 : this is 14th tweet
+Created at : Tue Jul 11 09:44:48 +0000 2017
+===============================================
+Tweet #9 : this is 13th tweet
+Created at : Tue Jul 11 09:44:41 +0000 2017
+===============================================
+Tweet #10 : this is 12th tweet
+Created at : Tue Jul 11 09:44:32 +0000 2017
+===============================================
+Tweet #12 : this is 10th tweet
+Created at : Tue Jul 11 09:43:27 +0000 2017
+===============================================
+Tweet #13 : this is 9th tweet
+Created at : Tue Jul 11 09:43:20 +0000 2017
+===============================================
+Tweet #14 : this is 8th tweet
+Created at : Tue Jul 11 09:43:11 +0000 2017
+===============================================
+Tweet #15 : this is 7th tweet
+Created at : Tue Jul 11 09:43:04 +0000 2017
+===============================================
+Tweet #16 : this is 6th tweet
+Created at : Tue Jul 11 09:42:56 +0000 2017
+===============================================
+Tweet #17 : this is 5th tweet
+Created at : Tue Jul 11 09:42:47 +0000 2017
+===============================================
+Tweet #11 : this is 11th tweet
+Created at : Tue Jul 11 09:44:22 +0000 2017
+===============================================
+Tweet #18 : this is 4th tweet
+Created at : Tue Jul 11 09:42:34 +0000 2017
+===============================================
+Tweet #19 : this is 3rd tweet
+Created at : Tue Jul 11 09:42:23 +0000 2017
+===============================================
+Tweet #20 : this is my second tweet.
+Created at : Tue Jul 11 09:39:17 +0000 2017
+===============================================
+============= Spotify lovve ===========
+Artist name : 孫淑媚 (Suen May)
+Song name : 愛袂到你 (Can't Lovve You)
+Album name : 孫淑媚精選1 (Best of Suen May 1)
+Preview URL : https://p.scdn.co/mp3-preview/99ff2b246967ebb7a29cd71ca4d360d8ee739b7e?cid=1f766e3c4cd54043bf12f68ea40a33c2
+============================================
